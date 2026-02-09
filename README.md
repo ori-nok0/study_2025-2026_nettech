@@ -14,3 +14,8 @@
 | [Лабораторная 8](lab8/) | [📄](lab8/report/) | [🖼️](lab8/presentation/) |
 
 ---
+
+**Лисовская Арина Валерьевна**  
+![Group](https://img.shields.io/badge/Группа-НПИбд01--23-blue)  
+![Email](https://img.shields.io/badge/Email-1132231434%40rudn.ru-red)  
+📧 [1132231434@rudn.ru](mailto:1132231434@rudn.ru)
